@@ -14,10 +14,9 @@
 >The main objective is to understand the styling of the webpages and the basics of stylings.
 >
 >---------------------------
->Link to deployed page _(click here)_<a href="https://abdiizakaria.github.io/Anitas-kitchen/" title="Title">
->Link to deployed page _(click here)_<a href="https://abdizakaria.github.io/Anitas-kitchen/" title="Title">
->>>>>>> fbf70af688251f10f29cecb9544cd136d20d2ed0
-Anita's Kitchen</a>
+>Link to deployed page _(click here)_<a href="https://abdiizakaria.github.io/Anitas-kitchen/" title="Title"></a>
+>Link to deployed page _(click here)_<a href="https://abdizakaria.github.io/Anitas-kitchen/" title="Title"></a>
+>Anita's Kitchen
 >
 >---------------------------
 
