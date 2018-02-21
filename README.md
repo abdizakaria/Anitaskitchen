@@ -1,7 +1,7 @@
 # Anitas-kitchen
 Anita's Kitchen
 
->Author: Domani Samuel
+>Author: zakaria abdi
 >
 >---------------------------
 >
@@ -16,9 +16,9 @@ Anita's Kitchen
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://domanisamuel.github.io/Anitas-kitchen/" title="Title">
+>Link to deployed page _(click here)_<a href="https://abdizakaria.github.io/Anitas-kitchen/" title="Title">
 Anita's Kitchen</a>
 >
 >---------------------------
 
-&copy; domanisamuel | Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
+&copy; abdizakaria | Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
